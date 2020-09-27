@@ -1,0 +1,11 @@
+Package: luci-theme-infinityfreedom
+Version: 1.4.20200613-1
+Depends: libc
+Section: luci
+Architecture: all
+Installed-Size: 2119769
+Filename: luci-theme-infinityfreedom_1.4.20200613-1_all.ipk
+Size: 2120699
+SHA256sum: 6d19ff6daf1773d3af26ce988b768015f43b5989e9393a752898ce022d479878
+Description:  Infinity Freedom Theme
+
