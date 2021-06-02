@@ -1,0 +1,14 @@
+Package: luci-theme-infinityfreedom
+Version: 1.5.20210222-1
+Depends: libc
+Source: feeds/infinityfreedom/luci-theme-infinityfreedom
+SourceName: luci-theme-infinityfreedom
+Section: luci
+SourceDateEpoch: 1616313869
+Architecture: all
+Installed-Size: 2120116
+Filename: luci-theme-infinityfreedom_1.5.20210222-1_all.ipk
+Size: 2121032
+SHA256sum: 2674ae80f92c54fbe4841faacc9a4f3483ae0f27c20a557bc4875741fe3cb8af
+Description:  Infinity Freedom Theme
+
